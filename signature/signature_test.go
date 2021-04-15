@@ -20,8 +20,8 @@ import (
 	"crypto/rand"
 	"testing"
 
-	. "github.com/centrifuge/go-substrate-rpc-client/v3/signature"
-	"github.com/centrifuge/go-substrate-rpc-client/v3/types"
+	. "github.com/rjman-self/centrifuge-substrate-rpc/v3/signature"
+	"github.com/rjman-self/centrifuge-substrate-rpc/v3/types"
 	"github.com/stretchr/testify/assert"
 )
 

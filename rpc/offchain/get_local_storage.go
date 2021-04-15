@@ -3,7 +3,7 @@ package offchain
 import (
 	"fmt"
 
-	"github.com/centrifuge/go-substrate-rpc-client/v3/types"
+	"github.com/rjman-self/centrifuge-substrate-rpc/v3/types"
 )
 
 // StorageKind ...

@@ -19,7 +19,7 @@ package types
 import (
 	"fmt"
 
-	"github.com/centrifuge/go-substrate-rpc-client/v3/scale"
+	"github.com/rjman-self/centrifuge-substrate-rpc/v3/scale"
 )
 
 // EventClaimsClaimed is emitted when an account claims some DOTs

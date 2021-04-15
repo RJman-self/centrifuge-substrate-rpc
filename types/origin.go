@@ -17,7 +17,7 @@
 package types
 
 import (
-	"github.com/centrifuge/go-substrate-rpc-client/v3/scale"
+	"github.com/rjman-self/centrifuge-substrate-rpc/v3/scale"
 )
 
 // Origin is an internal-only value that will be ignored when encoding/decoding
